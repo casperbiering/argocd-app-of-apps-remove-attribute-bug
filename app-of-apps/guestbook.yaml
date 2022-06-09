@@ -16,5 +16,5 @@ spec:
       valueFiles: []
       values: ''
     path: helm-guestbook
-    repoURL: 'git@github.com:argoproj/argocd-example-apps.git'
+    repoURL: 'https://github.com/argoproj/argocd-example-apps.git'
     targetRevision: HEAD
